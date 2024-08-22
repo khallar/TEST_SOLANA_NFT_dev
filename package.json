@@ -7,7 +7,7 @@
     "@babel/runtime": "^7.15.5",
     "@civic/solana-gateway-react": "^0.10.0",
     "@identity.com/solana-gateway-ts": "^0.10.0",
-    "@mui/icons-material": "^5.10.9",
+    "@mui/icons-material": "^5.16.6",
     "@mui/lab": "^5.0.0-alpha.104",
     "@mui/material": "^5.10.10",
     "@project-serum/anchor": "^0.17.0",
